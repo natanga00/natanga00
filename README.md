@@ -1,4 +1,4 @@
-## Olá! Eu sou o Natan Gonçalves
+## Saalve! Eu sou o Natan Gonçalves
 
 - 🔭 Hoje trabalho como estágiaro em Suporte Técnico/Infra
 - 🌱 Estudando Python
@@ -14,13 +14,15 @@
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Natan-HTML" height="175" width="220" src="https://mcdn.wallpapersafari.com/medium/49/42/vwdy0x.jpg">
 </div>
   
   ##
-  
+  <div>
   <a href="https://instagram.com/natang.a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/natan-gonçalves-b81b84185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/natan-gonçalves-b81b84185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/natanga00/natanga00/blob/output/github-contribution-grid-snake.svg)
-![giphy (1)](https://user-images.githubusercontent.com/72225206/158664261-879bd8c4-1df1-4130-ae0c-441e79cad43c.gif)
+
+  
