@@ -1,7 +1,7 @@
 ## Saalve! Eu sou o Natan Gonçalves
 
-- 🔭 Hoje trabalho como estágiaro em Suporte Técnico/Infra
-- 🌱 Estudando Python
+- 🔭 Hoje trabalho com Assistencia a Clientes na Localiza
+- 🌱 Estudando Python, PowerBI e Modelagem de Banco de Dados
 
 <div>
   <a href="https://github.com/natanga00">
