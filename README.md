@@ -1,7 +1,7 @@
 ## Saalve! Eu sou o Natan Gonçalves
 
-- 🔭 Hoje trabalho com Assistencia a Clientes na Localiza
-- 🌱 Estudando Python, PowerBI e Modelagem de Banco de Dados
+- 🔭 Hoje trabalho como Analista de Dados e Sistemas na PH Prime Promotora
+- 🌱 Em constante aprendizado em Python, PowerBI e Modelagem de Banco de Dados
 
 <div>
   <a href="https://github.com/natanga00">
