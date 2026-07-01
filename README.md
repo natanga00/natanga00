@@ -35,10 +35,8 @@ Diferente de projetos de tutorial, aqui estão plataformas reais que desenvolvi,
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanga00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanga00&layout=compact&langs_count=6&theme=dark"/>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=natanga00&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/natanga00)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=natanga00&layout=compact&langs_count=6&theme=dark)](https://github.com/natanga00)
 
 <p align="center">
   <img src="https://github.com/natanga00/natanga00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
