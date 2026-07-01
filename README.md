@@ -35,7 +35,7 @@ Diferente de projetos de tutorial, aqui estão plataformas reais que desenvolvi,
 
 ### 📊 Estatísticas & Atividade
 
-![Commits](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dnatanga00%26json%3Dtrue&color=6f42c1)
+![Commits](https://img.shields.io/badge/Contribuições-Ativo-success?style=for-the-badge&logo=github&color=2ea44f)
 ![Seguidores](https://img.shields.io/github/followers/natanga00?style=for-the-badge&color=212529)
 
 <p align="center">
