@@ -12,7 +12,7 @@ Analista de Dados e Sistemas, Bacharel em Ciência da Computação e Desenvolved
 ### 🚀 Projetos em Destaque (Deploy & Produção)
 Diferente de projetos de tutorial, aqui estão plataformas reais que desenvolvi, estruturei e coloquei em produção:
 
-*   🌐 **IPJA (Instituto de Pesquisa)** | [ipja.com.br](https://ipja.com.br)
+*   🌐 **IPJA (Igreja Presbiteriana no jardim América)** | [ipja.com.br](https://ipja.com.br)
 *   🌐 **Barbearia Lord** | [barbearialord.com.br](https://barbearialord.com.br)
 
 ---
