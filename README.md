@@ -39,7 +39,7 @@ Diferente de projetos de tutorial, aqui estão plataformas reais que desenvolvi,
 ![Seguidores](https://img.shields.io/github/followers/natanga00?style=for-the-badge&color=212529)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/natanga00/natanga00/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/natanga00/natanga00/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
