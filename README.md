@@ -33,10 +33,10 @@ Diferente de projetos de tutorial, aqui estão plataformas reais que desenvolvi,
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade
 
-[![Estatísticas do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=natanga00&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/natanga00)
-[![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=natanga00&layout=compact&langs_count=6&theme=dark)](https://github.com/natanga00)
+![Commits](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dnatanga00%26json%3Dtrue&color=6f42c1)
+![Seguidores](https://img.shields.io/github/followers/natanga00?style=for-the-badge&color=212529)
 
 <p align="center">
   <img src="https://github.com/natanga00/natanga00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
