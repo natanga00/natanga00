@@ -14,6 +14,10 @@ Diferente de projetos de tutorial, aqui estão plataformas reais que desenvolvi,
 
 *   🌐 **IPJA (Igreja Presbiteriana no Jardim América)** | [ipja.com.br](https://ipja.com.br)
 *   🌐 **Barbearia Lord** | [barbearialord.com.br](https://barbearialord.com.br)
+*   🌐 **Painel de Visualização de Dados** | [PH Prime Promotora](https://natanga00.github.io/phprime/)
+    * Dashboard desenvolvido para otimizar a rotina operacional da equipe, automatizando a rotação de painéis informativos.
+    * Exibe de forma dinâmica regras, limites operacionais, prazos e margens de segurança de múltiplos bancos parceiros e órgãos governamentais.
+
 
 ---
 
